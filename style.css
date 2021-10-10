@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.head {
+    color: #34eb9e;
+    font-weight: bold;
+}
+
+.star {
+    font-size: 30px;
+    color: #34eb9e;
+}
+
+h2 {
+    color: #34eb9e;
+    background-color: #34eb9e;
+    font-size: 5px;
+    width: 100px;
+}
+
+hr {
+    color: #34eb9e;
+    background-color: #34eb9e;
+    border: #34eb9e solid 1px;
+}
